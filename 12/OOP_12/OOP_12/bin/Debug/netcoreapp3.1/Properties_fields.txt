@@ -1,0 +1,4 @@
+Int32 Capacity
+Int32 Count
+Int32 Item [Int32]
+

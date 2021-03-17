@@ -1,0 +1,18 @@
+echo "# TEST_1" >> README.md
+git init
+git add README.md
+git status
+git commit -m "first commit"
+git log
+git branch -M master
+git remote add origin https://github.com/endlesslydivided/TEST_1.git
+git push -u origin master
+echo "# TEST_1" >> text.txt
+git checkout -b test
+git add text.txt
+git status
+git commit -m 'Adding file text.txt'
+git log
+git push origin test
+git checkout master
+git merge test

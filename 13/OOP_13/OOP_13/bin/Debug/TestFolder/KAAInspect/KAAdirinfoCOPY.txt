@@ -1,0 +1,63 @@
+▬▬▬▬▬▬▬▬▬▬Directories▬▬▬▬▬▬▬▬▬▬
+$RECYCLE.BIN
+Adobe
+adventure.time.distant.lands.bmo.supbell
+Aptana
+C#
+CDBurnerXP
+Compas
+DeepFaceLab
+FlashBack Express 5
+Gang_Beasts_v12.02.2020
+jeux
+Library
+mPlugins
+msdownld.tmp
+NI Circuit Design Suite 14.0.1
+Noita v21.02.2020
+Python Projects
+Python Projects (D)
+SiSoftware Sandra Lite 2020
+SteamLibrary
+sys
+System Volume Information
+Terraria
+Terraria by Igruha
+TEST1
+The Forest by Igruha
+The Forest v0.24
+The Talos Principle
+Virtual Machines
+VirtualBox
+Windows_Server_2008_r2_sp1_vl_x64_by_AG_09.2020
+ВИДЕО
+Драйвера
+Железяки
+Игры
+Компас
+Проекты FL
+Саша
+Торрент
+Фильмы
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬Files▬▬▬▬▬▬▬▬▬▬
+Adobe Premiere Pro CC 2017.1.2 11.1.2.22 RePack by KpoJIuK.iso
+Audacity.exe
+chapp.EXE
+Desinst.exe
+Desinst.ini
+DUMP1741.tmp
+DumpStack.log
+DumpStack.log.tmp
+install.ini
+Ita.ico
+Liesmich.wri
+machina.mfx
+MSVisio.id070.2016.zip
+mykropolis.exe
+reg.reg
+RuToR.OrG.Super.Mario.Bros.X.1.2.1.rar
+SuperCowRus.exe
+uninst.EXE
+uninstal.log
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬

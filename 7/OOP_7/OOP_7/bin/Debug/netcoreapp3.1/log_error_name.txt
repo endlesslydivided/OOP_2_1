@@ -1,0 +1,6 @@
+17.10.2020 16:31:28 INFO:
+OOP_7.Exceptions.InvalidNameException: Имя пользователя должно быть меньше 20 символов
+   at OOP_7.Army.Characters.set_Username(String value) in D:\Саша\Учёба\3_семестр_2_курс\Объектно ориентированное программирование и стандарты проектирования\Лабораторные работы\7\OOP_7\OOP_7\Characters.cs:line 144
+   at OOP_7.Army.Warrior..ctor(String UN, Int32 att, String SP, Int32 MHP) in D:\Саша\Учёба\3_семестр_2_курс\Объектно ориентированное программирование и стандарты проектирования\Лабораторные работы\7\OOP_7\OOP_7\Characters.cs:line 268
+   at OOP_7.Program.Main(String[] args) in D:\Саша\Учёба\3_семестр_2_курс\Объектно ориентированное программирование и стандарты проектирования\Лабораторные работы\7\OOP_7\OOP_7\Program.cs:line 106 
+012345678901234567891
